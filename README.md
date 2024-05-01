@@ -1,2 +1,2 @@
 # Keeper
-Created with CodeSandbox
+Keeper app that takes inspiration from google keep note taking service.
